@@ -10,5 +10,5 @@ Technology is one of my biggest intrests, specifically Information Security and
 Network Engineering. 
 ## 🔗 Links
 Git Hub: https://github.com/th210993 
-
+LinkedIn: https://www.linkedin.com/in/taylor-hernandez2101993/ 
 _"Mindset makes a difference"_
