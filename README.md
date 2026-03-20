@@ -1,16 +1,14 @@
-## 👏 Hi, I'm _YOUR_NAME_HERE_!
+## 👏 Hi, I'm_Taylor
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+This is my sophomore year at UTSA, I am in the class of 2028 and my major is B.B.A. Cyber Security
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+Cyber Security:
+https://coursera.org/share/7cd2676345ce18910b7be0b8ab00791e 
+https://coursera.org/share/548e7f24c41847097afd4865df992a8e
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+Technology is one of my biggest intrests, specifically Information Security and 
+Network Engineering. 
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+Git Hub: https://github.com/th210993 
 
-_"your-sample-favorite-quote"_
+_"Mindset makes a difference"_
